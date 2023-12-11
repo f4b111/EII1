@@ -41,7 +41,7 @@ print("5:", term5)
 print("6:", term6)
 print("7:", term7)
 print("8:", term8)
-print("\nMeine Vereinfachung")
+print("\nMeine Vereinfachung")      
 print("1:", term9)
 print("2:", term10)
 print("3:", term11)
@@ -50,5 +50,7 @@ print("5:", term13)
 print("6:", term14)
 print("7:", term15)
 print("8:", term16)
+print("\nAufwiedersehen und schoen dass sie eingeschaltet haben")                 # erweiterung
+
 
 
